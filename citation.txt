@@ -1,0 +1,8 @@
+@inproceedings{REPO254,
+    author = "Wu, Chuhan and Wu, Fangzhao and An, Mingxiao and Huang, Jianqiang and Huang, Yongfeng and Xie, Xing",
+    booktitle = "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI-19}",
+    pages = "3863--3869",
+    publisher = "International Joint Conferences on Artificial Intelligence Organization",
+    title = "{Neural News Recommendation with Attentive Multi-View Learning}",
+    year = "2019"
+}
